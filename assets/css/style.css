@@ -1,7 +1,7 @@
 body {
     margin:0 auto ;
-    background-image:url(../Assets/Images/folk-pattern-black/folk-pattern-black.png);
-    color: white;
+    background-image:url(..assets/images/Space-Boy.jpg);
+    color: rgb(247, 245, 245);
     font-family: 'Candal', sans-serif;
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 #connerheading {
-    background-color: black;
+    background-color: rgb(32, 18, 158);
     color: white;
     padding:5px;
     font-family: 'Days One', sans-serif;
@@ -65,7 +65,7 @@ img {
     display:block;
     position: relative;
     float:left;
-    width: 31%;
+    width: 21%;
     margin: 5px;
     
 }
@@ -81,7 +81,7 @@ img {
 }
 
 #contactbg {
-    background-color: black;
+    background-color: rgb(247, 245, 245);
 
 }
 
@@ -101,7 +101,7 @@ img {
 }
 
 #portfoliobg {
-    background-color: black;
+    background-color: rgb(32, 18, 158);
     padding: 10px
 }
 
@@ -130,7 +130,7 @@ h5 {
 
 /* Footer */
 .footercontainer {
-    background-color: black;
+    background-color: rgb(32, 18, 158);
     padding-bottom: 50px;
     position:fixed;
     left: 0;
