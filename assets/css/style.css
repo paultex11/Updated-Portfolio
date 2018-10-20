@@ -1,0 +1,150 @@
+body {
+    margin:0 auto ;
+    background-image:url(../Assets/Images/folk-pattern-black/folk-pattern-black.png);
+    color: white;
+    font-family: 'Candal', sans-serif;
+}
+
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+/*Heading*/
+
+    
+#navigation {
+    padding: 0px;
+    background-color: #3f3f3f;
+    border: 0px
+}
+
+#connerheading {
+    background-color: black;
+    color: white;
+    padding:5px;
+    font-family: 'Days One', sans-serif;
+
+}
+
+#navbarsupportedcontet{
+    float:right;
+    color: white;
+}
+
+nav {
+    background-color:#3f3f3f;
+    Margin-left: auto;
+    margin-right: auto;
+    border-bottom: solid;
+    border-color: #dddddd;
+}
+
+/*About Me*/
+
+#aboutme {
+    margin-top: 50px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 60px;
+}
+
+#aboutmebg {
+    background-color: #3f3f3f;
+
+}
+
+#aboutmetitle {
+    margin: 10px;
+    border-bottom: solid;
+    border-color: #dddddd;
+    color:white 
+}
+
+img {
+    display:block;
+    position: relative;
+    float:left;
+    width: 31%;
+    margin: 5px;
+    
+}
+
+/* contact */
+
+#contactinfo {
+    margin-top: 50px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 60px;
+    
+}
+
+#contactbg {
+    background-color: black;
+
+}
+
+#exampleInputmessage {
+    height: 75px;
+}
+
+#submitbutton {
+    margin: 20px
+}
+
+/* Portfolio */
+
+#portfolio {
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+#portfoliobg {
+    background-color: black;
+    padding: 10px
+}
+
+#portfoliobg2 {
+    background-color: black;
+    padding:10px
+}
+
+.card-img-top {
+    Margin: 0px;
+    background-color: black;
+    
+}
+.card {
+    background-color: black;
+    margin: 10px;
+}
+.card-body {
+    background-color: black;
+}
+
+h5 {
+    text-align: center;
+    color: white;
+}
+
+/* Footer */
+.footercontainer {
+    background-color: black;
+    padding-bottom: 50px;
+    position:fixed;
+    left: 0;
+    right: 0; 
+    bottom: 0;
+}
+#footer {
+    text-align: center; 
+    background-color:#3f3f3f;
+    color: white;
+    position:fixed;
+    left: 0;
+    right: 0; 
+    bottom: 0;
+
+
+}
