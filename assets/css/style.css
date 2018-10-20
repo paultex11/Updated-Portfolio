@@ -1,7 +1,7 @@
 body {
     margin:0 auto ;
-    background-image:url(..assets/images/Space-Boy.jpg);
-    color: rgb(247, 245, 245);
+    background-image:url(../assets/images/Space-1.jpg);
+    color: rgb(252, 249, 249);
     font-family: 'Candal', sans-serif;
 }
 
@@ -19,7 +19,7 @@ body {
     border: 0px
 }
 
-#connerheading {
+#paulheading {
     background-color: rgb(32, 18, 158);
     color: white;
     padding:5px;
@@ -29,7 +29,7 @@ body {
 
 #navbarsupportedcontet{
     float:right;
-    color: white;
+    color: rgb(253, 252, 252);
 }
 
 nav {
@@ -57,7 +57,7 @@ nav {
 #aboutmetitle {
     margin: 10px;
     border-bottom: solid;
-    border-color: #dddddd;
+    border-color: rgb(32, 18, 158);
     color:white 
 }
 
@@ -106,7 +106,7 @@ img {
 }
 
 #portfoliobg2 {
-    background-color: black;
+    background-color: rgb(7, 7, 7);
     padding:10px
 }
 
