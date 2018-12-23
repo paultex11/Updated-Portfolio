@@ -2,7 +2,7 @@ body {
     margin:0 auto ;
     background-image:url(../images/Space11.jpg);
     color: rgb(252, 249, 249);
-    font-family: 'Candal', sans-serif;
+    font-family: 'sans-serif', sans-serif;
 }
 
 .row{
@@ -20,10 +20,10 @@ body {
 }
 
 #paulheading {
-    background-color: rgb(32, 18, 158);
+    background-color: rgb(235, 12, 12);
     color: white;
     padding:5px;
-    font-family: 'Days One', sans-serif;
+    font-family: 'sans-serif', sans-serif;
 
 }
 
@@ -57,7 +57,7 @@ nav {
 #aboutmetitle {
     margin: 10px;
     border-bottom: solid;
-    border-color: rgb(32, 18, 158);
+    border-color: rgb(235, 12, 12);
     color:white 
 }
 
@@ -101,12 +101,12 @@ img {
 }
 
 #portfoliobg {
-    background-color: rgb(32, 18, 158);
+    background-color: #3f3f3f;
     padding: 10px
 }
 
 #portfoliobg2 {
-    background-color: rgb(7, 7, 7);
+    background-color: #3f3f3f;
     padding:10px
 }
 
@@ -130,7 +130,7 @@ h5 {
 
 /* Footer */
 .footercontainer {
-    background-color: rgb(32, 18, 158);
+    background-color: rgb(235, 12, 12);
     padding-bottom: 50px;
     position:fixed;
     left: 0;
